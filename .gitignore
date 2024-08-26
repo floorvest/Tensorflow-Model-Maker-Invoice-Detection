@@ -1,0 +1,6 @@
+.vscode
+test/*
+test_result/*
+model.tflite
+!test/.gitignore
+!test_result/.gitignore
